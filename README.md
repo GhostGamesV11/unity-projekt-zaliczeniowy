@@ -1,1 +1,1 @@
-# unity-projekt-zaliczeniowy
+Bartosz Okoński -  Unity -  Projekt zaliczeniowy
